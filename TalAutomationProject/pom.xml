@@ -14,13 +14,11 @@
         </dependency>
 
         <dependency>
-            <artifactId>guava</artifactId>
             <groupId>com.google.guava</groupId>
-            <type>jar</type>
-            <version>15.0</version>
+            <artifactId>guava</artifactId>
+            <version>[24.1.1,)</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
         <dependency>
             <groupId>io.appium</groupId>
             <artifactId>java-client</artifactId>
